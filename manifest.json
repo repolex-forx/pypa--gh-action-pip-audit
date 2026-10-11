@@ -1,0 +1,42 @@
+{
+  "manifest_version": "1.0",
+  "org": "pypa",
+  "repo": "gh-action-pip-audit",
+  "versions": [
+    {
+      "commit": "fb241f581674a1bb995061d62504857a9ea4b69e",
+      "parsed_at": "2026-10-11T05:20:03.366420+00:00",
+      "filetree": "filetree/fb241f581674a1bb995061d62504857a9ea4b69e.nq.gz",
+      "blobs": [
+        "blob/a46d96ecfb918c6a6f0556b78cb0f57050f593ca.nq.gz",
+        "blob/bdaab25d58d7ca2d84eec304db26abf8fea059a8.nq.gz",
+        "blob/6c05a614d2f4784a9ff578692eae7e5c706a12d6.nq.gz",
+        "blob/a0c2200f6787515e6de1d7bef3db1332f52d907a.nq.gz",
+        "blob/ff27519a166c04752a75347522fe9570354e7d37.nq.gz",
+        "blob/f433b1a53f5b830a205fd2df78e2b34974656c7b.nq.gz",
+        "blob/546e8fe026b6f5789591fd204c56be530ea64395.nq.gz",
+        "blob/f6064e3435f4d20918057b887db711ee1bfb0df8.nq.gz",
+        "blob/22b2cb204efb3500a304f45de117ace5dc3423ca.nq.gz",
+        "blob/3c4bc7b3253fb9e43a9afa73ebe32ffc8a1d3cdc.nq.gz",
+        "blob/d50ac0acb61ecb5c1e07320ffb61028025a554a0.nq.gz",
+        "blob/567f80efe05eb32650f804bf3c0343111bc37789.nq.gz",
+        "blob/f931fc5ed32215e78b6819416d6001c75d3c527a.nq.gz",
+        "blob/594d2e4d564f6234bc09880f9e328f2b4d9a1844.nq.gz",
+        "blob/12ce5e7375f8ea5e4334bc154542520cc3f5f24b.nq.gz",
+        "blob/e4d8a82395c6e7e46634250ce1cfbb1ac2c1e807.nq.gz",
+        "blob/cdde0cc29508df0d7d28882167cdca0e962d5d9f.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/c83f9139af7215ecb9d72e97291e74e59bd95427.nq.gz",
+        "blob/f086aa46b82189ebfb4f39d207a4316aa34ee758.nq.gz",
+        "blob/4ca9cedb3156d59b90697aba49f0323ff86c46ac.nq.gz",
+        "blob/77fd0ac52c253ae7723da9859da54a5ab16eaf88.nq.gz",
+        "blob/461396ba1d34b0f96ea3538de6afda27033b7289.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
