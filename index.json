@@ -1,0 +1,11 @@
+{
+  "org": "pypa",
+  "repo": "gh-action-pip-audit",
+  "versions": [
+    {
+      "commit": "fb241f581674a1bb995061d62504857a9ea4b69e",
+      "tag": "",
+      "parsed_at": "2026-10-11T05:22:12.920258+00:00"
+    }
+  ]
+}
