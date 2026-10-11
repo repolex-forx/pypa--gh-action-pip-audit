@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pypa/gh-action-pip-audit/commit/fb241f581674a1bb995061d62504857a9ea4b69e",
       "git:hexsha": "fb241f581674a1bb995061d62504857a9ea4b69e",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/pypa/gh-action-pip-audit/commit/1395474b44331b78e55df6e652092969567d4522",
